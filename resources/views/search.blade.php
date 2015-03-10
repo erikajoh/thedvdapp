@@ -2,6 +2,10 @@
 
 @section('content')
 
+<?php 
+	require_once 'vendor/autoload.php';
+?>
+
 <div class="col-md-1">
 </div>
 
