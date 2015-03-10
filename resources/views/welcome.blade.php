@@ -78,7 +78,7 @@
 		</style>
 	</head>
 	<body>
-		<img src="{{asset('assets/flowers.png')}}" class="flowers-left">
+		<!-- <img src="{{asset('assets/flowers.png')}}" class="flowers-left"> -->
 		<div class="container">
 
 			<div class="title">
@@ -92,6 +92,6 @@
 			<p><a href="dvds/search">search</a> &nbsp; // &nbsp; <a href="dvds/create">create</a> &nbsp; // &nbsp; <a href="dvds">view all</a></p>
 
 		</div>
-		<img src="{{asset('assets/flowers.png')}}" class="flowers-right">
+		<!-- <img src="{{asset('assets/flowers.png')}}" class="flowers-right"> -->
 	</body>
 </html>

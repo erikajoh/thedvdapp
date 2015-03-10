@@ -55,8 +55,8 @@
 </head>
 <body>
 
-<img src="{{asset('assets/flowers.png')}}" class="flowers-left">
-<img src="{{asset('assets/flowers.png')}}" class="flowers-right">
+<!-- <img src="{{asset('assets/flowers.png')}}" class="flowers-left"> -->
+<!-- <img src="{{asset('assets/flowers.png')}}" class="flowers-right"> -->
 <div class="container">
   @yield('content')
 </div>
