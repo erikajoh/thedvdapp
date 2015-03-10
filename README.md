@@ -13,7 +13,7 @@ DVDs por favor :)
 &mdash; create dvds <br>
 &mdash; view Rotten Tomato data
 
-### Technologies Used <br>
+### Technologies Used
 &mdash; Laravel / MVC <br>
 &mdash; PHP / HTML / CSS <br>
 &mdash; Bootstrap CSS <br>
@@ -24,3 +24,11 @@ DVDs por favor :)
 &mdash; Eager loading <br>
 &mdash; Rotten Tomatoes API <br>
 &mdash; Laravel's Cache class
+
+### Screenshots
+![](screenshots/thedvdapp1.png)
+![](screenshots/thedvdapp2.png)
+![](screenshots/thedvdapp3.png)
+![](screenshots/thedvdapp4.png)
+![](screenshots/thedvdapp5.png)
+![](screenshots/thedvdapp6.png)
