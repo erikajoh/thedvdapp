@@ -10,7 +10,7 @@
 	    body {
 	    	display: block;
 			font-family: 'Avenir';
-			background-color: #FBFBF8;
+			background-color: #fff;
 			color: #008195;
 		}
 
@@ -28,26 +28,6 @@
 			color: #C01A36;
 		}
 
-		.flowers-right {
-			height:100vh;
-			right:0;
-			float:right;
-			position:fixed;
-		}
-
-		.flowers-left {
-			height:100vh;
-			left:0;
-			float:left;
-			position:fixed;
-			-moz-transform: scaleX(-1);
-	        -o-transform: scaleX(-1);
-	        -webkit-transform: scaleX(-1);
-	        transform: scaleX(-1);
-	        filter: FlipH;
-	        -ms-filter: 'FlipH';
-		}
-
 		.btn {
 			color: #C01A36;
 		}
@@ -60,7 +40,7 @@
 		}
 
 		.nav a {
-			color: white;
+			color: #fff;
 			padding: 5px 10px;
 		}
 
@@ -81,24 +61,6 @@
 
 		.container {
 			width: 100%;
-		}
-
-		.welcome {
-			text-align: center;
-			display: table;
-			vertical-align: middle;
-			margin: 20vh auto;
-		}
-
-		.title {
-			font-size: 68px;
-			margin-bottom: 20px;
-			font-family: 'Shadows Into Light';
-		}
-
-		.quote {
-			margin-bottom: 80px;
-			color: #008195;
 		}
 
     </style>
