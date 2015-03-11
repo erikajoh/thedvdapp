@@ -4,9 +4,8 @@
     <meta charset="UTF-8">
     <title>The DVD App</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+    <link href='http://fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css'>
     <style>
-
-    	@import url(http://fonts.googleapis.com/css?family=Shadows+Into+Light);
 
 	    body {
 	    	display: block;
