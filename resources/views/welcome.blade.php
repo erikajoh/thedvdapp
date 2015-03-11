@@ -12,7 +12,7 @@
 		text-align: center;
 		display: table;
 		vertical-align: middle;
-		margin: 20vh auto;
+		margin: 30vh auto;
 	}
 
 	.title {
