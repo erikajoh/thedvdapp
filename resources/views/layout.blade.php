@@ -63,6 +63,13 @@
 			width: 100%;
 		}
 
+		.title {
+			font-size: 68px;
+			margin-bottom: 20px;
+			font-family: 'Shadows Into Light';
+			color: white;
+		}
+
     </style>
 </head>
 <body>

@@ -15,13 +15,6 @@
 		margin: 30vh auto;
 	}
 
-	.title {
-		font-size: 68px;
-		margin-bottom: 20px;
-		font-family: 'Shadows Into Light';
-		color: white;
-	}
-
 	.quote {
 		margin-bottom: 80px;
 		color: #fff;
